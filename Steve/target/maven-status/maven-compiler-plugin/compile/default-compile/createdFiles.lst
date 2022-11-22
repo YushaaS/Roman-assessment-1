@@ -1,0 +1,11 @@
+applications\xyzBank\BankingApplication.class
+applications\demowebshop\DemoWebshopApplication.class
+pages\LoginPage.class
+applications\saucedemo\pages\InventoryPage.class
+selenium\AbstractBankingPage.class
+applications\saucedemo\pages\LoginPage.class
+applications\saucedemo\SauceDemoApplication.class
+applications\saucedemo\models\Credential.class
+pages\TransactionsPage.class
+pages\AccountPage.class
+applications\saucedemo\widgets\InventoryItemWidget.class
